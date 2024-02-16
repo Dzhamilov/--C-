@@ -1,0 +1,16 @@
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.exe
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.deps.json
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.runtimeconfig.json
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.runtimeconfig.dev.json
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.dll
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\ref\HmW-2.dll
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\bin\Debug\net5.0\HmW-2.pdb
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.csproj.AssemblyReference.cache
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.AssemblyInfoInputs.cache
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.AssemblyInfo.cs
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.csproj.CoreCompileInputs.cache
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.dll
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\ref\HmW-2.dll
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.pdb
+C:\Users\Акбар\Desktop\ДЗ-С#\HmW-2\HmW-2\obj\Debug\net5.0\HmW-2.genruntimeconfig.cache
